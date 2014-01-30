@@ -1,0 +1,16 @@
+{
+  "name": "dbus-example",
+  "version": "0.0.1",
+  "description": "example of http to dbus",
+  "main": "app-dbus.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "node-dbus": "~0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Russell <mikerussellnz@gmail.com",
+  "license": "BSD-2-Clause"
+}
